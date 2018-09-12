@@ -2,7 +2,7 @@
 
 An R script called run_analysis.R was created to do the following:
 
-1. Merge the training and the test sets to create one data set.
+1. Merge the two sets of data (training and the test sets) to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement. 
 3. Use descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 
